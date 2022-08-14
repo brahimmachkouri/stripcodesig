@@ -1,5 +1,11 @@
 # stripcodesig
+
 Just an archive
+
+```
+cd stripcodesig-master
+make
+```
 
 ## Links
 
