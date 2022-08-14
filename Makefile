@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-arch i386 -arch x86_64 -O3
+CFLAGS=-arch x86_64 -O3
 
 all: stripcodesig amd_insn_patcher amd_insn_patcher_ext
 
